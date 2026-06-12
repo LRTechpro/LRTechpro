@@ -1,27 +1,27 @@
-<h1>Hi, I'm Harold! Passionate Cybersecurity Analyst<br/></h1>
+## Harold Watkins — Automotive Cybersecurity Engineer
 
-<h2>👨‍💻 My Projects:</h2>
+Software Verification and Infrastructure Analyst at Ford. I work with connected vehicle software failure analysis, UDS diagnostic session behavior, OTA update event triage, and multi-signal log correlation across CAN/CAN-FD networks.
 
-- <b>AZURE / Cloud Cybersecurity Project</b>
-  - [Creating a Live SOC / Honeynet in AZURE](https://github.com/LRTechpro/Azure-SOC)
+Pursuing a Doctor of Engineering in Cybersecurity at Old Dominion University. Research focus: multi-signal correlation framework for detecting and classifying anomalies in connected vehicle OTA and diagnostic events.
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="HaroldWatkins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Featured Work
 
-[linkedin]: https://www.linkedin.com/in/haroldwatkins1/
+**[AutoDecoder-Workbench](https://github.com/LRtechpro/AutoDecoder-Workbench)**  
+ISO 15765 (CAN) traffic analysis and UDS protocol decoder for Windows. Reconstructs ISO-TP frames, decodes service IDs, DIDs, and NRC codes, and produces structured diagnostic output for automotive triage and validation.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[FDRS-Log-Quick-Triage](https://github.com/LRtechpro/FDRS-Log-Quick-Triage)**  
+Python triage tooling for Ford FDRS diagnostic logs. Extracts ECU communication sequences, fault events, and diagnostic session data for rapid investigation of vehicle software failures.
 
-Here are some ideas to get you started:
+**[UDS-ECU-Emulator](https://github.com/LRtechpro/UDS-ECU-Emulator)**  
+ISO 14229 ECU emulator for testing UDS diagnostic clients, validating security access seed-key logic, and simulating ECU responses across standard service identifiers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Ford-FDRS-Security-Analyzer](https://github.com/LRtechpro/Ford_FDRS_Security_Analyzer)**  
+FDRS output analysis with a security-oriented lens — identifying diagnostic patterns relevant to automotive cybersecurity assessment.
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/haroldwatkins1/)
