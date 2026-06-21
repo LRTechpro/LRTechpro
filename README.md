@@ -1,4 +1,4 @@
-## Harold Watkins — Automotive Cybersecurity Engineer
+## Harold Watkins - Automotive Cybersecurity Engineer
 
 Software Verification and Infrastructure Analyst at Ford. I work with connected vehicle software failure analysis, UDS diagnostic session behavior, OTA update event triage, and multi-signal log correlation across CAN/CAN-FD networks.
 
@@ -18,7 +18,7 @@ Python triage tooling for Ford FDRS diagnostic logs. Extracts ECU communication 
 ISO 14229 ECU emulator for testing UDS diagnostic clients, validating security access seed-key logic, and simulating ECU responses across standard service identifiers.
 
 **[Ford-FDRS-Security-Analyzer](https://github.com/LRtechpro/Ford_FDRS_Security_Analyzer)**  
-FDRS output analysis with a security-oriented lens — identifying diagnostic patterns relevant to automotive cybersecurity assessment.
+FDRS output analysis with a security-oriented lens - identifying diagnostic patterns relevant to automotive cybersecurity assessment.
 
 ---
 
