@@ -1,4 +1,4 @@
-## Harold Watkins - Automotive Cybersecurity Engineer
+## Harold L.R. Watkins - Automotive Cybersecurity Engineer
 
 Software Verification and Infrastructure Analyst at Ford. I work with connected vehicle software failure analysis, UDS diagnostic session behavior, OTA update event triage, and multi-signal log correlation across CAN/CAN-FD networks.
 
