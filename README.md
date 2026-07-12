@@ -6,7 +6,7 @@ Automotive cybersecurity engineer and vehicle software verification analyst focu
 
 I currently support Ford Smart Architecture software verification and infrastructure workflows through TEKsystems. My work includes analyzing ECU deployment, configuration, flash, diagnostic, and software-integrity failures using UDS behavior, CAN data, XML artifacts, software records, and engineering evidence.
 
-I am pursuing dual Master of Science degrees in Cybersecurity and Software Engineering at the University of Advancing Technology, with focus areas in embedded systems, robotics, artificial intelligence, and automotive security.
+I am pursuing dual Master of Science degrees in Cybersecurity and Software Engineering at the University of Advancing Technology, with specializations in Artificial Intelligence and Robotics/Embedded Systems.
 
 ## Featured Automotive Cybersecurity Projects
 
@@ -38,13 +38,14 @@ Embedded computer-vision project deploying an Edge Impulse FOMO model to an ESP3
 
 Embedded automotive cybersecurity, UDS ISO 14229, CAN and CAN-FD, ISO-TP, ECU diagnostics, secure diagnostic access, software update validation, cybersecurity assurance, Python, C#, .NET, SocketCAN, ESP32, SQLite, pandas, pytest, and GitHub Actions.
 
-## Education and Certifications
+## Education, Specializations, and Certifications
 
-Dual M.S. candidate in Cybersecurity and Software Engineering, University of Advancing Technology
-
-B.S. Computer Information Systems, Cybersecurity and Cloud Security, Summa Cum Laude
-
-CompTIA Security+ | Microsoft Azure Fundamentals | Linux+
+- **Dual M.S. candidate, Cybersecurity and Software Engineering** - University of Advancing Technology
+  - Specializations: Artificial Intelligence and Robotics/Embedded Systems
+- **B.S. Computer Information Systems** - Cybersecurity and Cloud Security, Summa Cum Laude
+- **A.A.S. Automotive Technology** - TCI College
+- **A.S. Computer Information Management** - Ashworth College
+- **Certifications:** CompTIA Security+, Microsoft Azure Fundamentals (AZ-900), Linux+
 
 ## Connect
 
