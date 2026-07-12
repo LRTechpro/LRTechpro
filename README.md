@@ -1,8 +1,8 @@
 # Harold L. R. Watkins
 
-**Automotive Cybersecurity | Vehicle Software Verification | Embedded Diagnostics**
+**Automotive Cybersecurity Engineer | Embedded Systems | Vehicle Software Verification**
 
-Automotive systems and cybersecurity professional focused on connected vehicle software, embedded diagnostics, ECU communication, secure software update validation, and vehicle network analysis.
+Automotive cybersecurity engineer and vehicle software verification analyst focused on embedded systems, connected vehicle software, ECU diagnostics, secure software update validation, and in-vehicle network analysis.
 
 I currently support Ford Smart Architecture software verification and infrastructure workflows through TEKsystems. My work includes analyzing ECU deployment, configuration, flash, diagnostic, and software integrity failures using UDS behavior, CAN data, XML artifacts, software records, and engineering evidence.
 
@@ -36,7 +36,7 @@ Embedded computer vision project deploying an Edge Impulse FOMO model to an ESP3
 
 ## Technical Focus
 
-UDS ISO 14229, CAN and CAN-FD, ISO-TP, ECU diagnostics, secure diagnostic access, software update validation, automotive cybersecurity assurance, Python, C#, .NET, SocketCAN, ESP32, SQLite, pandas, pytest, and GitHub Actions.
+Embedded automotive cybersecurity, UDS ISO 14229, CAN and CAN-FD, ISO-TP, ECU diagnostics, secure diagnostic access, software update validation, automotive cybersecurity assurance, Python, C#, .NET, SocketCAN, ESP32, SQLite, pandas, pytest, and GitHub Actions.
 
 ## Education and Certifications
 
