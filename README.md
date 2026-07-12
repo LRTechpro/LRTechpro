@@ -1,27 +1,51 @@
-## Harold L.R. Watkins - Automotive Cybersecurity Engineer
+# Harold L. R. Watkins
 
-Software Verification and Infrastructure Analyst at Ford. I work with connected vehicle software failure analysis, UDS diagnostic session behavior, OTA update event triage, and multi-signal log correlation across CAN/CAN-FD networks.
+**Automotive Cybersecurity | Vehicle Software Verification | Embedded Diagnostics**
 
-Pursuing a Doctor of Engineering in Cybersecurity at Old Dominion University. Research focus: multi-signal correlation framework for detecting and classifying anomalies in connected vehicle OTA and diagnostic events.
+Automotive systems and cybersecurity professional focused on connected vehicle software, embedded diagnostics, ECU communication, secure software update validation, and vehicle network analysis.
 
----
+I currently support Ford Smart Architecture software verification and infrastructure workflows through TEKsystems. My work includes analyzing ECU deployment, configuration, flash, diagnostic, and software integrity failures using UDS behavior, CAN data, XML artifacts, software records, and engineering evidence.
 
-### Featured Work
+I am pursuing dual Master of Science degrees in Cybersecurity and Software Engineering at the University of Advancing Technology, with focus areas in embedded systems, robotics, artificial intelligence, and automotive security.
 
-**[AutoDecoder-Workbench](https://github.com/LRtechpro/AutoDecoder-Workbench)**  
-ISO 15765 (CAN) traffic analysis and UDS protocol decoder for Windows. Reconstructs ISO-TP frames, decodes service IDs, DIDs, and NRC codes, and produces structured diagnostic output for automotive triage and validation.
+## Featured Automotive Cybersecurity Projects
 
-**[FDRS-Log-Quick-Triage](https://github.com/LRtechpro/FDRS-Log-Quick-Triage)**  
-Python triage tooling for Ford FDRS diagnostic logs. Extracts ECU communication sequences, fault events, and diagnostic session data for rapid investigation of vehicle software failures.
+### [AutoCyber Traceability & Continuous Assurance Workbench](https://github.com/LRTechpro/automotive_cybersecurity_compliance_ai_assistant)
 
-**[UDS-ECU-Emulator](https://github.com/LRtechpro/UDS-ECU-Emulator)**  
-ISO 14229 ECU emulator for testing UDS diagnostic clients, validating security access seed-key logic, and simulating ECU responses across standard service identifiers.
+Automotive cybersecurity assurance prototype connecting a synthetic vehicle architecture, TARA risks, technical requirements, controls, evidence, SBOM findings, detection validation, cybersecurity claims, and release gate decisions.
 
-**[Ford-FDRS-Security-Analyzer](https://github.com/LRtechpro/Ford_FDRS_Security_Analyzer)**  
-FDRS output analysis with a security-oriented lens - identifying diagnostic patterns relevant to automotive cybersecurity assessment.
+### [AutoSec UDS Conformance Workbench](https://github.com/LRTechpro/autosec-uds-workbench)
 
----
+Specification driven UDS validation tool that compares observed ECU behavior with machine readable diagnostic requirements, derives session and security state, evaluates protocol preconditions, and exports V&V findings and trace metrics.
 
-### Connect
+### [AutoDecoder Workbench](https://github.com/LRTechpro/AutoDecoder-Workbench)
+
+C# and .NET automotive diagnostic workbench for ISO-TP reconstruction, UDS service decoding, DID and NRC analysis, XML parsing, and structured diagnostic log review.
+
+### [UDS ECU Emulator](https://github.com/LRTechpro/UDS-ECU-Emulator)
+
+Python and SocketCAN laboratory project demonstrating UDS Diagnostic Session Control and Security Access using a deliberately weak seed key implementation on a controlled virtual CAN network.
+
+### [FDRS Log Quick Triage](https://github.com/LRTechpro/FDRS-Log-Quick-Triage)
+
+C# and .NET WinForms application for extracting high signal diagnostic events, classifying severity, filtering security and access related findings, reducing duplicate faults, and exporting evidence to CSV.
+
+### [ESP32-CAM FOMO Object Detection](https://github.com/LRTechpro/ESP32CAM-FOMO-Object-Detection)
+
+Embedded computer vision project deploying an Edge Impulse FOMO model to an ESP32-CAM for real time detection of automotive key fobs and J2534 vehicle communication interfaces.
+
+## Technical Focus
+
+UDS ISO 14229, CAN and CAN-FD, ISO-TP, ECU diagnostics, secure diagnostic access, software update validation, automotive cybersecurity assurance, Python, C#, .NET, SocketCAN, ESP32, SQLite, pandas, pytest, and GitHub Actions.
+
+## Education and Certifications
+
+Dual M.S. candidate in Cybersecurity and Software Engineering, University of Advancing Technology
+
+B.S. Computer Information Systems, Cybersecurity and Cloud Security, Summa Cum Laude
+
+CompTIA Security+ | Microsoft Azure Fundamentals | Linux+
+
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/haroldwatkins1/)
